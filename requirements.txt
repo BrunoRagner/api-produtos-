@@ -1,0 +1,3 @@
+Festapi
+pydantic
+deta
