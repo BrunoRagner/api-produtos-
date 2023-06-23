@@ -7,9 +7,6 @@ from deta import Deta
 
 
 
-# Configuração do SDK de base da Deta
-deta = Deta("b0aa59j8_suZLrKMJXxSCX4Uoacc2CohBNCyT8Cow")
-db = deta.Base('produto')
 
 # Configuração do FastAPI
 
